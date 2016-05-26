@@ -6,8 +6,8 @@ Simply having bootstrap.dat in NutCoin's expected data directory will make your 
 
 ### Instructions
 
-1.  Download bootstrap.dat.xz from mirrors or torrent.
-2.  Verify the integrity of bootstrap.dat.xz with the checksums.
+1.  Download [bootstrap.dat.zip](https://github.com/NUToshiSakamoto/nutcoin-bootstrap/releases/download/latest/bootstrap.dat.zip).
+2.  Verify the integrity of bootstrap.dat.zip with the checksums.
 3.  Decompress to obtain bootstrap.dat.
 4.  Put it into the NutCoin datadir. This is the same folder that contains wallet.dat and the blocks folder.
 5.  Delete bootstrap.dat.old if you want to recover some storage space.
@@ -15,19 +15,10 @@ Simply having bootstrap.dat in NutCoin's expected data directory will make your 
 ### Verify integrity
 
 ##### **MD5** 
-    nuuuuuuuuuuuuuuuuuuuuuuuuuuuuuts
-##### **SHA1**
-    nuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuts
+`c197cbbb1f0db59adeb37204973615d9  bootstrap.dat.zip`
+
 ##### **SHA256**
-    nuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuts
-    
-### Extract bootstrap.dat
-
-##### **Linux**
-   `xz -d bootstrap.dat.xz`
-
-##### **Windows**
-  [7Zip](http://www.7-zip.org/) is a free utility that can decompress .xz files.
+ `713909716e63d0f776b7618739f78d78c37b6bbc8595eae9f4f1a3f166b95f47  bootstrap.dat.zip`
   
 ### Copy **bootstrap.dat** to data directory
 
