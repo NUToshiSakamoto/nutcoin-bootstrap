@@ -15,10 +15,10 @@ Simply having bootstrap.dat in NutCoin's expected data directory will make your 
 ### Verify integrity
 
 ##### **MD5** 
-`c197cbbb1f0db59adeb37204973615d9  bootstrap.dat.zip`
+`6a2134604278f5826f90e46ff0a4006f  bootstrap.dat.zip`
 
 ##### **SHA256**
- `713909716e63d0f776b7618739f78d78c37b6bbc8595eae9f4f1a3f166b95f47  bootstrap.dat.zip`
+ `1ab7d056c1e2bc67adbc9cd4ea8351349e6a806529f12cafbf77890edc194b20  bootstrap.dat.zip`
   
 ### Copy **bootstrap.dat** to data directory
 
